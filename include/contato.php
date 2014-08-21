@@ -1,6 +1,6 @@
 <div class="container theme-showcase" role="main" id="containerPrincipal">
     <div class="container page-header">
-        <h2>Formulário de contato</h2>
+        <h1>Formulário de contato</h1>
     </div>
         <form class="form-horizontal" role="form" action="#" method="post">
             <div class="form-group">
