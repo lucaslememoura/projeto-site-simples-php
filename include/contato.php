@@ -2,7 +2,7 @@
     <div class="container page-header">
         <h1>Formulário de contato</h1>
     </div>
-        <form class="form-horizontal" role="form" action="#" method="post">
+        <form class="form-horizontal" role="form" action="submit" method="post">
             <div class="form-group">
                 <label for="inputNome" class="col-sm-2 control-label">Nome:</label>
                 <div class="col-sm-7">

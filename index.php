@@ -5,7 +5,7 @@ $rota = explode('/',$dados_url['path'],2);
 
 function rotas( $param) {
 
-    $rotasValidas = ["contato","empresa","produtos","servicos","home"];
+    $rotasValidas = ["contato","empresa","produtos","servicos","home","submit",];
 
     if( in_array( $param[1], $rotasValidas)):
         return require_once('include/'.$param[1].".php");
